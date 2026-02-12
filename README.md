@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-MEMBERS :- RUDRADEVSINH SOLANKI & KRUSHNDEVSINH VALA
+MEMBERS :- RUDRADEVSINH SOLANKI & AADITYA SEVANI
 
 This is a simple web-based Quiz Application developed using PHP.  
 The application presents 20 multiple-choice questions and calculates the user's score based on their selected answers.
@@ -51,4 +51,5 @@ This project helped in understanding:
 - Form handling using $_POST
 - Server-side processing
 - Dynamic score calculation
+
 
